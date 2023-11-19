@@ -27,7 +27,8 @@ x1=10
 y1=6
 x2=4
 y2=2
-print(distance(x1,y1,x2,y2))```
+print(distance(x1,y1,x2,y2))
+```
   
 ### OUTPUT:
 ![output](./distance.png)
