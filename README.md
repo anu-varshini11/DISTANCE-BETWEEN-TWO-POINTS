@@ -33,4 +33,4 @@ print(distance(x1,y1,x2,y2))```
 ![output](./distance.png)
 
 ### RESULT:
-Thus, the program runs successfully.
+Thus, the program runs successfully and the distance between the two points is calculated.
